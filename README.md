@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/paloma-borro-santos-697301b2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
+---
 <br />
 
 <p>Junior front-end developer. I've worked with JavaScript, React, Node, CSS3, HTML5 or Bootstrap.</p>
@@ -30,6 +31,7 @@
   <a href="https://github.com/" target="_blank"> <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 </p>
 
+---
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=palomaborro&theme=radical&show_icons=true" width="450"/>
