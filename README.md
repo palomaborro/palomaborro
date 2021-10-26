@@ -13,6 +13,9 @@
   <h2 align="center">About me</h2>
 </p>
 
+---
+<br />
+
 <p>I'm a Spanish developer currently looking por a position that can match my skills, and learning some more React (I hope one day I love hooks)</p>
 <p>I am also passionate about music -maybe there's a future project realted to that :eyes:-, comics and games and I'm always open to talk about anything!</p>
 <p>You can check my latest project, <a href="https://find-me-a-comic.herokuapp.com/">Find Me A Comic</a>, a web app created using the Comic Vine API where you can share your favorite comic lists.</p>
@@ -21,7 +24,6 @@
   <h3 align="center"> Languages and Tools</h3>
 </p>
 
----
 <br />
   <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
