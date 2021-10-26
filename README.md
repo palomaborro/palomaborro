@@ -12,8 +12,8 @@
   <h2 align="center">About me</h2>
 </p>
 ---
-
 <br />
+
 <p>I'm a Spanish developer currently looking por a position that can match my skills, and learning some more React (I hope one day I love hooks)</p>
 <p>I am also passionate about music -maybe there's a future project realted to that :eyes:-, comics and games and I'm always open to talk about anything!</p>
 <p>You can check my latest project, <a href="https://find-me-a-comic.herokuapp.com/">Find Me A Comic</a>, a web app created using the Comic Vine API where you can share your favorite comic lists.</p>
