@@ -29,3 +29,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <a href="https://github.com/" target="_blank"> <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 </p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=palomaborro&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaborro&layout=compact&theme=radical" width="400" />
+</p>
