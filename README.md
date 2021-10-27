@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paloma-borro-santos-697301b2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/palomaborrosantos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
 <p>Junior front-end developer. I've worked with JavaScript, React, Node, CSS3, HTML5 or Bootstrap.</p>
