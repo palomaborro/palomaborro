@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/palomaborrosantos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-<p>Junior front-end developer. I've worked with JavaScript, React, Node, CSS3, HTML5 or Bootstrap.</p>
+<p>Front-end developer. I've worked with JavaScript, React, Node, CSS3, HTML5 or Bootstrap.</p>
 
 <p>
   <h2 align="center">About me</h2>
@@ -14,8 +14,8 @@
 
 
 <br />
-<p>I'm a Spanish developer currently looking por a position that can match my skills and learning some more React (I hope one day I love hooks)</p>
-<p>I am also passionate about music -maybe there's a future project related to that :eyes:-, comics and games and I'm always open to talk about anything!</p>
+<p>I'm a Spanish developer specialized on React. I've been part of projects that include clients such as Inditex or The Washington Post. You can consult my LinkedIn for more details.</p>
+<p>I am also passionate about music -and a drummer!-, comics and games and I'm always open to talk about anything</p>
 <p>You can check my latest project, <a href="https://find-me-a-comic.herokuapp.com/">Find Me A Comic</a>, a web app created using React and the Comic Vine API where you can share your favorite comic lists.</p>
 
 <p>
