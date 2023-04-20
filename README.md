@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/palomaborrosantos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-<p>Front-end developer. I've worked with JavaScript, React, Node, CSS3, HTML5 or Bootstrap.</p>
+<p>Front-end developer. I've worked with JavaScript, React, NodeJS, TypeScript or Cypress.</p>
 
 <p>
   <h2 align="center">About me</h2>
