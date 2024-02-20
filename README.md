@@ -15,7 +15,7 @@
 
 <br />
 <p>I'm a Spanish developer specialized in React. I've been part of projects that include clients such as Inditex or The Washington Post. You can consult my LinkedIn for more details.</p>
-<p>I am also passionate about music -and a drummer!-, comics and games and I'm always open to talk about anything</p>
+<p>I am also passionate about music -and a drummer!-, comics and games and I'm always open to talk about anything.</p>
 
 <p>
   <h3 align="center"> Languages and Tools</h3>
